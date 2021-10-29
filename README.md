@@ -2,7 +2,7 @@
 
 
 
-![logo_white](.\Resource\logo_white.png)
+![logo_white](https://github.com/yatharthb97/NOISE/blob/master/Resource/logo_transparent.png?raw=true)
 
 
 
