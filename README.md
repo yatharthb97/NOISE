@@ -1,5 +1,11 @@
 # NOISE
 
+
+
+![logo_white](.\Resource\logo_white.png)
+
+
+
 `NOISE` is a lattice random walker simulator. The implementation allows **arbitrary** number of random walkers and dimension. The system consists of a concentric pair of hypercubes with the bigger one forming the bounding box and obeys periodic boundary conditions.  This implementation cross-compiles on an Arduino compatible microcontroller as well as a PC system. When compiled on a microcontroller, the code can be used to generate Poisson Noise signals on any available digital pin. The compiled PC system can be used as an emulator or a stand alone application.
 
 The random walkers in the  `HyperCube` emit a `HIGH` signal, whenever a random walker passes through the smaller concentric cube. The inspiration behind this model was to crudely simulate diffusive fluorescent particles passing through a confocal volume. Outside the confocal volume (or the smaller hypercube), the signal emitted by the random walkers is `LOW`.
