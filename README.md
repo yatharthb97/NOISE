@@ -2,7 +2,7 @@
 
 
 
-![logo_white](https://github.com/yatharthb97/NOISE/blob/master/Resource/logo_transparent.png?raw=true)
+<img src="https://github.com/yatharthb97/NOISE/blob/master/Resource/logo_transparent.png?raw=true" alt="logo" style="width:200px;"/>
 
 
 
