@@ -4,7 +4,7 @@
 
 <img src="https://github.com/yatharthb97/NOISE/blob/master/Resource/logo_transparent.png?raw=true" alt="logo" style="width:200px;"/>
 
-
+**Note: This code is not currently compiling.**
 
 `NOISE` is a lattice random walker simulator. The implementation allows **arbitrary** number of random walkers and dimension. The system consists of a concentric pair of hypercubes with the bigger one forming the bounding box and obeys periodic boundary conditions.  This implementation cross-compiles on an Arduino compatible microcontroller as well as a PC system. When compiled on a microcontroller, the code can be used to generate Poisson Noise signals on any available digital pin. The compiled PC system can be used as an emulator or a stand alone application.
 
